@@ -47,7 +47,7 @@ form #suggestions span:last-child{border-bottom-right-radius:2px;border-bottom-l
 .result{background-color:#156aae;text-align:center;width:96.66666666666667%;border-radius:2px;margin-bottom:15px;padding:1.666666666666667%;} /*w:580px;p:10px;*/
 .result .name{font-weight:600;text-overflow:ellipsis;white-space:nowrap;width:100%;overflow:hidden;}
 .result .properties{font-size:11px;width:100%;margin:0 auto 15px auto;}
-.result .options a{color:#2c2c2c;background-color:#ffffff;font-weight:600;text-decoration:none;border-radius:2px;margin-right:0.8333333333333333%;padding:5px 1.666666666666667%;display:inline-block;} /*p:10px;*/
+.result .options a{color:#2c2c2c;background-color:#ffffff;font-weight:600;text-decoration:none;border-radius:2px;margin-right:0.8333333333333333%;padding:5px 1.666666666666667%;display:inline-block;margin-bottom: 5px;} /*p:10px;*/
 .result .options a:last-child{margin-right:0;}
 .file{color:#282828;background-color:#ffffff;text-align:center;width:96.66666666666667%;border-radius:2px;padding:1.666666666666667%;} /*w:580px;p:10px;*/
 .file .name{font-weight:600;text-overflow:ellipsis;white-space:nowrap;width:100%;overflow:hidden;}
