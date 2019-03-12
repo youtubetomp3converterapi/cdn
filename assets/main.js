@@ -208,7 +208,7 @@ $(document).ready(function() {
     <a href="#" rel="nofollow" data-frame="` + ytid + `" id="iframeku" class="url">Download MP3</a>
     <a href="#" rel="nofollow" data-frame="` + ytid + `" id="iframeku" class="vidurl">Download MP4</a>
     <a href="#" class="save-cloud" data-cloud="` + ytid + `" id="cloudku">Save to cloud</a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=` + window.location.href + `" rel="nofollow" target="_blank">Share on <i class="fa fa-facebook-official"></i></a>
+    <a href="https://twitter.com/intent/tweet?text=` + window.location.href + `" rel="nofollow" target="_blank">Share on <i class="fa fa-twitter"></i></a>
     </div>
     `);
             }, 500);
